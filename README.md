@@ -1,0 +1,2 @@
+# EyeDiseaseClassifier
+ A deep learning-based web application for classifying eye diseases (Cataract, Diabetic Retinopathy, Glaucoma, Normal) using a CNN model built with TensorFlow and Keras. The system features a Flask backend for real-time image classification and a user-friendly frontend for seamless interaction. Trained on a dataset of 4,217 images, the model achieves high accuracy and includes data preprocessing, model evaluation, and visualization of results via confusion matrices and classification reports. Deployable and scalable for healthcare applications.
