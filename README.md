@@ -7,20 +7,11 @@ Uses a CNN model with TensorFlow and Keras, incorporating data augmentation for 
 Flask backend serves predictions via a REST API, connected to a frontend for user interaction.
 Evaluates model performance with metrics like accuracy, F1 score, and confusion matrix.
 
-Project Structure
-EyeDiseaseClassifier/
-├── app.py                  # Flask backend for serving the model
-├── templates/             # Frontend files (HTML, CSS, JavaScript)
-├── scripts/               # Python scripts for model training and evaluation
-│   └── train_model.py     # Main script for CNN training
-├── model/                 # Directory containing the trained Keras model (best_cnn_model.keras)
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
 
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/AHSAN-MEHMOOD/EyeDiseaseClassifier.git
+git clone https://github.com/AHSAN-MEHMOOD/EyeDiseaseDetection.git
 cd EyeDiseaseClassifier
 
 
