@@ -11,7 +11,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import confusion_matrix, classification_report, f1_score, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 
-data_dir = "C:/Users/pmls/Downloads/archive (1)/dataset"  
+data_dir = "C:/Users/Downloads/dataset"  #your own dataset directory
 img_height, img_width = 128, 128
 images = []
 labels = []
